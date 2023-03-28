@@ -1,9 +1,13 @@
 {
   "name": "@origyn-sa/todo",
   "version": "1.0.0-alpha.0",
-  "description": "todo: Add your description here.",
+  "description": "Template for new TypeScript Libraries",
+  "author": "ORIGYN Foundation",
+  "license": "Apache-2.0",
   "keywords": [
-    "origyn"
+    "origyn",
+    "typescript",
+    "template"
   ],
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -26,9 +30,5 @@
   },
   "files": [
     "dist/**/*"
-  ],
-  "author": "Origyn Foundation",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
-  }
+  ]
 }
